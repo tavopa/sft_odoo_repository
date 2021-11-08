@@ -2,3 +2,11 @@
 	path = sft
 	url = https://github.com/softhink25/sft_pago_servicios.git
 	branch = 14.0
+[submodule "oca"]
+	path = oca
+	url = https://github.com/OCA/account-financial-reporting.git
+	branch = 14.0
+[submodule "oca/account-financial-reporting"]
+	path = oca/account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting.git
+	branch = 14.0
