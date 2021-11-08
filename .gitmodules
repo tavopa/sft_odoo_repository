@@ -10,3 +10,7 @@
 	path = oca/account-financial-reporting
 	url = https://github.com/OCA/account-financial-reporting.git
 	branch = 14.0
+[submodule "oca/server-tools"]
+	path = oca/server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = 14.0
