@@ -14,3 +14,6 @@
 	path = oca/server-tools
 	url = https://github.com/OCA/server-tools.git
 	branch = 14.0
+[submodule "sft/sft_pago_servicios"]
+	path = sft/sft_pago_servicios
+	url = https://github.com/softhink25/sft_pago_servicios.git
