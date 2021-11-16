@@ -17,3 +17,6 @@
 [submodule "sft/sft_pago_servicios"]
 	path = sft/sft_pago_servicios
 	url = https://github.com/softhink25/sft_pago_servicios.git
+[submodule "sft/sft_pos_partial_pay"]
+	path = sft/sft_pos_partial_pay
+	url = https://github.com/softhink25/sft_pos_partial_pay.git
