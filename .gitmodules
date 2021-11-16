@@ -20,3 +20,6 @@
 [submodule "sft/sft_pos_partial_pay"]
 	path = sft/sft_pos_partial_pay
 	url = git@github.com:softhink25/sft_pos_partial_pay.git
+[submodule "sft/sft-facturacion"]
+	path = sft/sft-facturacion
+	url = git@github.com:softhink25/sft-facturacion.git
